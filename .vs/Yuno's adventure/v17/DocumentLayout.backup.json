@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\Yuno\u0027s adventure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA114CD-274E-F1EC-4066-C081AA976205}|Assembly-CSharp.csproj|D:\\Downloads\\Yuno\u0027s adventure\\assets\\scripts\\game\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA114CD-274E-F1EC-4066-C081AA976205}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA114CD-274E-F1EC-4066-C081AA976205}|Assembly-CSharp.csproj|d:\\downloads\\yuno\u0027s adventure\\assets\\camera fit\\camerafit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA114CD-274E-F1EC-4066-C081AA976205}|Assembly-CSharp.csproj|solutionrelative:assets\\camera fit\\camerafit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA114CD-274E-F1EC-4066-C081AA976205}|Assembly-CSharp.csproj|D:\\Downloads\\Yuno\u0027s adventure\\assets\\scripts\\menu\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA114CD-274E-F1EC-4066-C081AA976205}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA114CD-274E-F1EC-4066-C081AA976205}|Assembly-CSharp.csproj|D:\\Downloads\\Yuno\u0027s adventure\\assets\\scripts\\game\\obstacle\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA114CD-274E-F1EC-4066-C081AA976205}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\obstacle\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA114CD-274E-F1EC-4066-C081AA976205}|Assembly-CSharp.csproj|D:\\Downloads\\Yuno\u0027s adventure\\assets\\scripts\\game\\game\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA114CD-274E-F1EC-4066-C081AA976205}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\game\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2A8E02-2D40-88E8-CA68-6D21817039BF}|Assembly-CSharp-Editor.csproj|D:\\Downloads\\Yuno\u0027s adventure\\assets\\camera fit\\editor\\camerafiteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2A8E02-2D40-88E8-CA68-6D21817039BF}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\camera fit\\editor\\camerafiteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA114CD-274E-F1EC-4066-C081AA976205}|Assembly-CSharp.csproj|D:\\Downloads\\Yuno\u0027s adventure\\assets\\scripts\\game\\obstacle\\laser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA114CD-274E-F1EC-4066-C081AA976205}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\obstacle\\laser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Map.cs",
+              "DocumentMoniker": "D:\\Downloads\\Yuno\u0027s adventure\\Assets\\Scripts\\Game\\Obstacle\\Map.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Obstacle\\Map.cs",
+              "ToolTip": "D:\\Downloads\\Yuno\u0027s adventure\\Assets\\Scripts\\Game\\Obstacle\\Map.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Obstacle\\Map.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:28:39.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Downloads\\Yuno\u0027s adventure\\Assets\\Scripts\\Game\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Player\\PlayerController.cs",
+              "ToolTip": "D:\\Downloads\\Yuno\u0027s adventure\\Assets\\Scripts\\Game\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAADwvygAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:21:01.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CameraFitEditor.cs",
+              "DocumentMoniker": "D:\\Downloads\\Yuno\u0027s adventure\\Assets\\Camera Fit\\Editor\\CameraFitEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Camera Fit\\Editor\\CameraFitEditor.cs",
+              "ToolTip": "D:\\Downloads\\Yuno\u0027s adventure\\Assets\\Camera Fit\\Editor\\CameraFitEditor.cs",
+              "RelativeToolTip": "Assets\\Camera Fit\\Editor\\CameraFitEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:52:59.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraFit.cs",
+              "DocumentMoniker": "D:\\Downloads\\Yuno\u0027s adventure\\Assets\\Camera Fit\\CameraFit.cs",
+              "RelativeDocumentMoniker": "Assets\\Camera Fit\\CameraFit.cs",
+              "ToolTip": "D:\\Downloads\\Yuno\u0027s adventure\\Assets\\Camera Fit\\CameraFit.cs",
+              "RelativeToolTip": "Assets\\Camera Fit\\CameraFit.cs",
+              "ViewState": "AgIAAI4BAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:52:17.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Downloads\\Yuno\u0027s adventure\\Assets\\Scripts\\Game\\Game\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Game\\GameManager.cs",
+              "ToolTip": "D:\\Downloads\\Yuno\u0027s adventure\\Assets\\Scripts\\Game\\Game\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Game\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:50:23.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "D:\\Downloads\\Yuno\u0027s adventure\\Assets\\Scripts\\Menu\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\MenuManager.cs",
+              "ToolTip": "D:\\Downloads\\Yuno\u0027s adventure\\Assets\\Scripts\\Menu\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu\\MenuManager.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:47:04.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Laser.cs",
+              "DocumentMoniker": "D:\\Downloads\\Yuno\u0027s adventure\\Assets\\Scripts\\Game\\Obstacle\\Laser.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Obstacle\\Laser.cs",
+              "ToolTip": "D:\\Downloads\\Yuno\u0027s adventure\\Assets\\Scripts\\Game\\Obstacle\\Laser.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Obstacle\\Laser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:45:17.136Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

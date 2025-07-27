@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\Zalo Received Files\\Wizzard adventure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26611B71-3C3F-D8F3-1922-52B0DBA9B3D2}|Assembly-CSharp.csproj|c:\\users\\administrator\\documents\\zalo received files\\wizzard adventure\\assets\\scripts\\game\\game\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26611B71-3C3F-D8F3-1922-52B0DBA9B3D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\game\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26611B71-3C3F-D8F3-1922-52B0DBA9B3D2}|Assembly-CSharp.csproj|c:\\users\\administrator\\documents\\zalo received files\\wizzard adventure\\assets\\scripts\\game\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26611B71-3C3F-D8F3-1922-52B0DBA9B3D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Zalo Received Files\\Wizzard adventure\\Assets\\Scripts\\Game\\Game\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Game\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Zalo Received Files\\Wizzard adventure\\Assets\\Scripts\\Game\\Game\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Game\\GameManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:40:10.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\Zalo Received Files\\Wizzard adventure\\Assets\\Scripts\\Game\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\Zalo Received Files\\Wizzard adventure\\Assets\\Scripts\\Game\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:16:27.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
